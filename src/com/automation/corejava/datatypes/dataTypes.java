@@ -42,8 +42,17 @@ public class dataTypes {
 		System.out.println(var2);
 		System.out.println(var3);*/
 		
-		String name = "Surya";
-		System.out.println(name);
+	/*	String name = "Surya";
+		System.out.println(name);*/
+		
+		boolean isname = true;
+		System.out.println(isname);
+		
+		if (isname) {
+			isname = false;
+			System.out.println(isname);
+		   
+		}
 		
 		
 				
